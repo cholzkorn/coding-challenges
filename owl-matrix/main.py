@@ -40,6 +40,8 @@ def owl_matrix(df):
     print(ntr and mtr)
     if ntr and mtr:
         return True
+    else:
+        return False
 
 # Calling the function
 
